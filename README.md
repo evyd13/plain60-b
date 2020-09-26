@@ -1,6 +1,6 @@
 # Plain60-B
 
-![Plain60-B PCB](https://i.imgur.com/HtLYU8R.png)
+![Plain60-B PCB](https://i.imgur.com/xxbICC7.png)
 This universal 60% PCB is designed to support as little layouts as possible without limiting usability for most users. The reason I did this is because other PCBs made for this form factor usually have so many supported layouts that it could almost qualify as swiss cheese.
 
 It also features a fuse and an ESD protection chip to protect the MCU and other parts of the PCB.
